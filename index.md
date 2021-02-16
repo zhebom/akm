@@ -32,6 +32,32 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhebom/akm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 1. Apa itu Asesmen Nasional?
+Asesmen Nasional adalah program penilaian terhadap mutu setiap sekolah, madrasah, dan program kesetaraan pada jenjang dasar dan menengah. Mutu satuan pendidikan dinilai berdasarkan hasil belajar murid yang mendasar (literasi, numerasi, dan karakter) serta kualitas proses belajar-mengajar dan iklim satuan pendidikan yang mendukung pembelajaran. Informasi-informasi tersebut diperoleh dari tiga instrumen utama, yaitu Asesmen Kompetensi Minimum (AKM), Survei Karakter, dan Survei Lingkungan Belajar.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 2. Mengapa perlu ada Asesmen Nasional?
+Asesmen Nasional perlu dilakukan untuk meningkatkan mutu pendidikan. Asesmen ini dirancang untuk menghasilkan informasi akurat untuk memperbaiki kualitas belajar-mengajar, yang pada gilirannya akan meningkatkan hasil belajar murid. Asesmen Nasional menghasilkan informasi untuk memantau 
+1. perkembangan mutu dari waktu ke waktu, dan 
+2. kesenjangan antar bagian di dalam sistem pendidikan (misalnya kesenjangan antarkelompok sosial ekonomi dalam satuan pendidikan, kesenjangan antara satuan Pendidikan negeri dan swasta di suatu wilayah, kesenjangan antardaerah, atau pun kesenjangan antarkelompok berdasarkan atribut tertentu).
+Asesmen Nasional bertujuan untuk menunjukkan apa yang seharusnya menjadi tujuan utama satuan pendidikan, yakni pengembangan kompetensi dan karakter murid. Asesmen Nasional juga
+memberi gambaran tentang karakteristik esensial sebuah satuan pendidikan yang efektif untuk mencapai tujuan utama tersebut. Hal ini diharapkan dapat mendorong satuan pendidikan dan Dinas Pendidikan untuk memfokuskan sumber daya pada perbaikan mutu pembelajaran.
+
+### 3. Apakah Asesmen Nasional menentukan kelulusan peserta didik?
+Tidak , Asesmen Nasional tidak menentukan kelulusan. Asesmen Nasional diberikan kepada murid bukan di akhir jenjang satuan pendidikan. Asesmen Nasional juga tidak digunakan untuk menilai peserta didik yang menjadi peserta asesmen. Hasil Asesmen Nasional tidak akan memuat skor atau nilai peserta didik secara individual. Seperti dijelaskan sebelumnya, hasil Asesmen Nasional diharapkan menjadi dasar dilakukannya perbaikan pembelajaran. Dengan demikian, Asesmen Nasional tidak terkait dengan kelulusan peserta didik. Penilaian untuk kelulusan peserta didik merupakan kewenangan pendidik dan satuan pendidikan.
+
+### 4. Siapa yang menjadi peserta Asesmen Nasional?
+Asesmen Nasional akan diikuti oleh seluruh satuan pendidikan tingkat dasar dan menengah di Indonesia, termasuk satuan pendidikan kesetaraan. Pada tiap satuan pendidikan, Asesmen Nasional akan diikuti oleh sebagian peserta didik kelas V, VIII, dan XI yang dipilih  secara acak oleh Kemdikbud. Asesmen Nasional juga akan diikuti oleh seluruh guru dan kepala satuan pendidikan. Informasi dari peserta didik, guru, dan kepala satuan pendidikan diharapkan memberi informasi yang lengkap tentang kualitas proses dan hasil belajar di setiap satuan pendidikan. 
+
+### 5. Mengapa yang menjadi sampel adalah murid kelas V, VIIIdan XI?
+Hasil Asesmen Nasional diharapkan menjadi dasar dilakukannya perbaikan pembelajaran. Pemilihan jenjang kelas V, VIII dan XI dimaksudkan agar murid yang menjadi peserta Asesmen Nasional dapat merasakan perbaikan pembelajaran ketika mereka masih berada di satuan pendidikan tersebut. Selain itu, Asesmen Nasional juga digunakan untuk memotret dampak dari proses pembelajaran di setiap satuan pendidikan. Murid kelas V,VIII, dan XI telah mengalami proses pembelajaran sehingga satuan pendidikan dapat dikatakan telah berkontribusi pada hasil belajar yang diukur dalam Asesmen Nasional.
+
+### 6. Apakah Asesmen Nasional menggantikan UN?
+Asesmen Nasional tidak menggantikan peran UN dalam mengevaluasi prestasi atau hasil belajar murid secara individual. Namun Asesmen Nasional menggantikan peran UN sebagai sumber informasi untuk memetakan dan mengevaluasi mutu sistem pendidikan. Sebagai alat untuk mengevaluasi mutu sistem, Asesmen Nasional akan menghasilkan potret yang lebih utuh tentang kualitas hasil belajar serta proses pembelajaran di satuan pendidikan. Laporan hasil Asesmen Nasional akan dirancang untuk menjadi “cermin” atau umpan balik yang berguna bagi satuan pendidikan dan Dinas Pendidikan dalam proses evaluasi diri dan perencanaan program.
+
+### 7. Mengapa yang diukur adalah literasi dan numerasi?
+Asesmen Nasional mengukur dua macam literasi, yaitu Literasi Membaca dan Literasi Matematika (atau Numerasi). Keduanya dipilih karena merupakan kemampuan atau kompetensi yang mendasar dan diperlukan oleh semua murid, terlepas dari profesi dan citacitanya di masa depan. Literasi dan numerasi juga merupakan kompetensi yang perlu dikembangkan secara lintas mata pelajaran. Kemampuan membaca yang diukur melalui AKM Literasi sebaiknya dikembangkan tidak hanya melalui pelajaran Bahasa Indonesia, tapi juga pelajaran agama, IPA, IPS, dan pelajaran lainnya. Kemampuan  berpikir logis-sistematis yang diukur melalui AKM Numerasi juga sebaiknya dikembangkan melalui berbagai pelajaran. Dengan Lembar Fakta
+mengukur literasi dan numerasi, Asesmen Nasional mendorong guru semua mata pelajaran untuk berfokus pada pengembangan kompetensi membaca dan berpikir logis-sistematis
+
+### 8. Bagaimana kaitan antara Asesmen Nasional dengan kurikulum?
+Asesmen Nasional mengukur kompetensi mendasar (general capabilities) yang dapat diterapkan secara luas dalam segala situasi. Kompetensi mendasar ini perlu dipelajari oleh semua murid dan satuan pendidikan, sehingga dibangun melalui pembelajaran beragam materi kurikulum lintas mata pelajaran. Target asesmen yang sekedar mengukur penguasaan murid akan  konten atau materi kurikulum menjadi tidak relevan karena di era informasi saat ini, pengetahuan faktual semakin mudah diperoleh dan diakses oleh hampir setiap orang. Sekedar mengetahui menjadi tidak cukup dan kurang relevan.  Asesmen Nasional berfokus mengukur pada kemampuan murid untuk menggunakan dan mengevaluasi pengetahuan yang diperoleh dari
+beragam materi kurikulum untuk merumuskan serta menyelesaikan masalah. Asesmen Nasional menggeser fokus dari keluasan pengetahuan menuju kedalaman kompetensi dari kurikulum
